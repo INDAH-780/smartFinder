@@ -1,0 +1,24 @@
+{
+  "name": "smartfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.16.2",
+    "body-parser": "^1.20.3",
+    "chokidar": "^4.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "file-type": "^19.6.0",
+    "fs-extra": "^11.2.0",
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1",
+    "textract": "^2.5.0"
+  }
+}
